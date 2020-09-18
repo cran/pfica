@@ -1,0 +1,10 @@
+71760f391af834e7415c501646d56142 *DESCRIPTION
+6d4d56bc56c8e9f93e7cc456f4cd6fe7 *NAMESPACE
+7468eb0e7c263d61c558c9318eb6593b *R/ffobi.R
+60b658085984fc6058ed9ddf5856a953 *R/kd.R
+07c973921eacbd828489b8e65c4ac199 *R/kffobi.R
+eb6090f06879fd4aad73aba601d822a7 *R/pspline.kffobi.R
+94e3ac378b2d55cf23e69b915a1ccb3a *man/ffobi.Rd
+279c0bf856f8d85ef4ecc8a6e3156140 *man/kd.Rd
+977319f3e3e480535ae2b8c113b332bc *man/kffobi.Rd
+ab6ae074c29d7ce41d9afc10622db6e2 *man/pspline.kffobi.Rd
